@@ -1,0 +1,17 @@
+#wpadminbar li.addFav a, #wpadminbar li.favbar_remove a,  #wpadminbar li.favbar_reorder a {
+	background-image:url('favBar-menu.png');
+	background-repeat:no-repeat !important;
+	background-position: right !important;
+}
+
+#wpadminbar li.favbar_remove a {
+	background-position: right -50px !important;
+}
+
+#wpadminbar li.favbar_reorder a {
+	background-position: right -75px !important;
+}
+
+#wpadminbar li.addFav a {
+	background-position: right -25px !important;
+}
